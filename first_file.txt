@@ -1,1 +1,2 @@
 This is the first line ever after cloning form GitHub
+I am goint to add this to the staging area now
